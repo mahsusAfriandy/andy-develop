@@ -1,6 +1,0 @@
-GOALS
-- Konsisten untuk belajar basic project development.
-- Nambahin skill
-- Ohhmygoshh i can do this!
-- Luasin networking
-- Video dokumentasi
